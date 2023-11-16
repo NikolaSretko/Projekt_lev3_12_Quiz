@@ -22,7 +22,7 @@ Dieses Repository enthält eine Quiz-Anwendung, die dynamisch mit JavaScript ers
 
 Stelle sicher, dass die folgenden Softwareversionen installiert sind:
 
-- Webbrowser: Die Anwendung wurde in [Browsername und Version] getestet und optimiert. Andere Browser können ebenfalls unterstützt werden, wurden jedoch nicht ausgiebig getestet.
+- Webbrowser: Die Anwendung wurde in Google Chrome getestet und optimiert. Andere Browser können ebenfalls unterstützt werden, wurden jedoch nicht ausgiebig getestet.
 ## Demo
 
 [DEMO](https://nikolasretko.github.io/Projekt_lev3_12_Quiz/)
