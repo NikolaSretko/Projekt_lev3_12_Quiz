@@ -32,7 +32,7 @@ Stelle sicher, dass die folgenden Softwareversionen installiert sind:
 1. Klonen des Repositories:
 
 ```bash
-git clone https://github.com/dein-benutzername/dein-quiz-repo.git
+git clone https://github.com/dein-benutzername/dein-quiz-repo.git](https://github.com/NikolaSretko/Projekt_lev3_12_Quiz.git)
 
 ```
 2. Öffnen der Anwendung:
