@@ -10,13 +10,6 @@ Dieses Repository enthält eine Quiz-Anwendung, die dynamisch mit JavaScript ers
 - Dynamische Erstellung von Quiz-Fragen und -Antworten mit JavaScript.
 - Lokale Datenbank für die Speicherung von Quiz-Inhalten.
 - CSS-Styling für eine verbesserte Benutzeroberfläche.
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 
 ## Voraussetzungen
 
